@@ -1,0 +1,9 @@
+touch samplefile.txt
+
+ls
+
+pwd
+
+wget hhtps://example.com
+
+ls
