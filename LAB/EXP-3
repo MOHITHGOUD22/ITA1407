@@ -1,0 +1,14 @@
+pwd
+
+tree
+
+nano sample.txt
+
+cat sample.txt
+
+head sample.txt
+
+tail samole.txt
+
+head -2 sample.txt
+tail -2 sample.txt
