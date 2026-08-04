@@ -1,0 +1,8 @@
+ls
+
+nano sample.txt
+cat sample.txt
+
+mkdir LanFFolder
+
+ls
